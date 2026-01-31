@@ -16,7 +16,7 @@ AceMock is a web-based AI-powered mock interview platform that helps users pract
 - Responsive modern UI
 
 ---
-🧩 System Architecture
+##🧩 System Architecture:
 User
  │
  ▼
@@ -51,7 +51,7 @@ Neon PostgreSQL (via Drizzle ORM)
 - Vercel
 
 ---
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup:   
 1️⃣ Clone the Repository
 git clone https://github.com/yukta65/An-AI-Driven-Mock-Interview-and-Feedback-System.git
 cd An-AI-Driven-Mock-Interview-and-Feedback-System
@@ -59,14 +59,14 @@ cd An-AI-Driven-Mock-Interview-and-Feedback-System
 2️⃣ Install Dependencies
 npm install
 ---
-⚙️ Environment Variables
+## ⚙️ Environment Variables
 
 Create a .env.local file and add:
 
 NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
 DATABASE_URL=your_neon_database_url
 
-▶️ Run Locally
+## ▶️ Run Locally
 npm install
 npm run dev
 
