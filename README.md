@@ -16,20 +16,20 @@ AceMock is a web-based AI-powered mock interview platform that helps users pract
 - Responsive modern UI
 
 ---
-##🧩 System Architecture:
-User
- │
- ▼
-Next.js Frontend
- │
- ▼
-API Routes (Next.js)
- │
- ▼
-Google Gemini AI ── Evaluation
- │
- ▼
-Neon PostgreSQL (via Drizzle ORM)
+## 🧩 System Architecture:
+## User
+##  │
+##  ▼
+## Next.js Frontend
+ ## │
+ ## ▼
+## API Routes (Next.js)
+ ## │
+ ## ▼
+## Google Gemini AI ── Evaluation
+ ## │
+ ## ▼
+## Neon PostgreSQL (via Drizzle ORM)
 ---
 ## 🛠 Tech Stack
 
